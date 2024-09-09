@@ -1,0 +1,7 @@
+[package]
+name = "zig_unsafe_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zig-unsafe = { path = ".." }
